@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"combinations(set)"
+			],
+			[
+				"cur",
+				"currentArr	[]"
+			],
+			[
+				"curr",
+				"currentArr	(?)"
+			],
+			[
+				"len",
+				"length	(num)"
+			],
+			[
+				"co",
+				"combinations"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ma",
+				"max	Attr"
+			],
+			[
+				"min",
+				"min	Attr"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"c",
+				"click	.click()"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"data",
+				"datalist	Tag"
+			],
+			[
+				"for",
+				"formnovalidate	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"aut",
+				"autofocus	Attr"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bo",
+				"boatsDestroyed"
+			],
+			[
+				"add",
+				"addPlayer"
+			],
+			[
+				"a",
+				"accuracy"
+			],
+			[
+				"s",
+				"shoots"
+			],
+			[
+				"b",
+				"boatsDestroyed"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"but",
+				"buttons"
+			],
+			[
+				"ax",
+				"axisY"
+			],
+			[
+				"das",
+				"dashboard"
+			],
+			[
+				"pla",
+				"playVideo"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"las",
+				"lastAudio"
+			],
+			[
+				"go",
+				"goToLastAudio"
+			],
+			[
+				"fi",
+				"firstAudio"
+			],
+			[
+				"pau",
+				"pauseAudio"
+			],
+			[
+				"mu",
+				"muteAudio"
+			],
+			[
+				"st",
+				"stopAudio"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"pl",
+				"play"
+			],
+			[
+				"pa",
+				"pauseAudio"
+			],
+			[
+				"ini",
+				"initAudio"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"rest",
+				"restartAudio"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"src",
+				"srclang	Attr"
+			],
+			[
+				"lo",
+				"loop	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"random:",
+				"Random:Word"
+			],
+			[
+				"rand",
+				"Random:Text"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello"
+	],
+	"file_history":
+	[
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/config/express.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/server.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/app/routes/index.server.routes.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/index.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/package.json",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/.gitignore",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/hello2.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/npm-debug.log",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/Code Change B/script.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/Code Change B/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/3 - Manejo de formularios/[3] FormJS/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/3 - Manejo de formularios/[3] FormJS/script.js",
+		"/C/Users/buira/Programación/Javascript/ng2-auth/tsconfig.json",
+		"/C/Users/buira/Programación/Javascript/ng2-auth/project-st3.sublime-project",
+		"/C/Users/buira/Programación/Javascript/ng2-auth/app/app.component.ts",
+		"/C/Users/buira/Programación/Javascript/ng2-auth/app/app.module.ts",
+		"/C/Users/buira/Programación/Javascript/ng2-auth/app/main.ts",
+		"/C/Users/buira/AppData/Roaming/Sublime Text 3/Packages/User/Typescript.sublime-build",
+		"/C/Users/buira/Programación/Javascript/ng2-auth/app/app.component.spec.ts",
+		"/C/Users/buira/Programación/Javascript/ng2-auth/package.json",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/3 - Manejo de formularios/[3] FormJS/styles.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/3 - Manejo de formularios/Práctica01/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/3 - Manejo de formularios/Práctica01/js/script.js",
+		"/C/Users/buira/Downloads/jscourse-master/map/.jshintrc",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Node/Map2/index.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Node/Map2/gulpfile.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/3 - Manejo de formularios/Práctica00/quiz.html",
+		"/C/Users/buira/Downloads/jscourse-master/map/gulpfile.js",
+		"/C/Users/buira/Downloads/jscourse-master/map/package.json",
+		"/C/Users/buira/Programación/Javascript/snapterest/gulpfile.js",
+		"/C/Users/buira/Programación/Javascript/snapterest/source/app.js",
+		"/C/Users/buira/Programación/Javascript/snapterest/build/index.html",
+		"/C/Users/buira/Programación/Javascript/snapterest/package.json",
+		"/C/Users/buira/Programación/Javascript/snapterest/build/snapterest.js",
+		"/C/Users/buira/Programación/Javascript/snapterest/source/package.json",
+		"/C/Users/buira/Programación/Javascript/snapterest/snapterest.sublime-project",
+		"/C/Users/buira/Desktop/twiter.txt",
+		"/C/Users/buira/snapkite-engine/config.json",
+		"/C/Users/buira/snapkite-engine/filters/snapkite-filter-has-mobile-photo/config.json",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/3 - Manejo de formularios/Ejemplos/form_1/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Proyectos/[1] naval-battle/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Proyectos/[1] naval-battle/css/style.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Proyectos/[1] naval-battle/js/script.js",
+		"/C/Users/buira/Downloads/video_test.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Proyectos/[1] naval-battle/README.md",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo02/js/playvideo02.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo01/js/playvideo01.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo02/playvideo02.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo02/playvideo01.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist01/playlist01.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist02/playlist02.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo01/playvideo01.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo01/css/playvideo01.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist01/css/playlist01.css",
+		"/C/Users/buira/Programación/HTML5/video and track/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist02/js/playlist02.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo01/js/playlist02.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playvideo01/playlist02.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist02/css/playlist01.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist/css/playlist01.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab02/Playlist/js/main.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Playlist/js/main.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Playlist/index.html",
+		"/C/Users/buira/Downloads/source/sources363/js/main.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Playlist/css/styles.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab01/audio-sol/css/style.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab01/audio-sol/audio-javascript-sol.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab01/audio-sol/js/audio.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab01/Audio/js/script.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab01/Audio/audio-javascript.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Lab01/Audio/css/styles.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/1 - Introducción al HTML5/Lab01/Audio/audio-javascript.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/sub_v01.vtt",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/eje02.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/eje03.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/eje04.html",
+		"/C/Users/buira/Programación/HTML5/video and track/videos/Creed-1st Desire/romanization.vtt",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/eje01.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/CompuertasLogicas.wmv",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/robot.ogv",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/robot.webm",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/robot.3gp",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/Ejem_U2_01/Maestro_Borrador.mp4",
+		"/C/Users/buira/Programación/HTML5/video and track/videos/Creed-1st Desire/japanese.vtt",
+		"/C/Users/buira/Programación/HTML5/video and track/subtitles/Creed-1st Desire.vtt",
+		"/C/Users/buira/Programación/HTML5/video and track/subtitles/Creed-1st Desire.vvt",
+		"/C/Users/buira/Programación/HTML5/video and track/css/styles.css",
+		"/C/Users/buira/Programación/HTML5/landing page UI/js/script.js",
+		"/C/Users/buira/Programación/HTML5/landing page UI/index.html",
+		"/C/Users/buira/Downloads/Semantic-UI-CSS-master/components/accordion.css",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Contenido de las clases/Clase 2/pruebas/js/pruebas.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Contenido de las clases/Clase 2/pruebas/pruebas.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/2 - Manejo de audio y video/tareas/audio_video.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/1 - Introducción al HTML5/tarea1/audio_video.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/1 - Introducción al HTML5/tarea1/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/1 - Introducción al HTML5/Estructura/eje11.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/2 - HTML5/1 - Introducción al HTML5/Estructura/eje10.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/Herramientas de programación web con Js y HTML5/Introducción al HTML5/tarea1/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/Herramientas de programación web con Js y HTML5/Introducción al HTML5/tarea1.html/index.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/Herramientas de programación web con Js y HTML5/Introducción al HTML5/Ejemplo1/code2.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/Herramientas de programación web con Js y HTML5/Introducción al HTML5/Ejemplo1/code1.html",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/Herramientas de programación web con Js y HTML5/Introducción al HTML5/01_HeProg_HTML5.pdf",
+		"/C/Users/buira/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/Herramientas de programación web con Js y HTML5/test/index.html",
+		"/C/Users/buira/PIU/STEP_F2_V1_11 _1(Steppack 2.11)/Songs/MonsthDeath/RagnaRock The House Remix/E04 - Money.ssc"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"combinations",
+			" =",
+			"=",
+			"num_person",
+			"quired min=\"",
+			"email_repetir",
+			"</label>",
+			"<label for=\"\">",
+			"text",
+			"<input ",
+			"e-1",
+			"name",
+			"''",
+			"value",
+			"browsers",
+			"5",
+			"  ",
+			"<input",
+			"phone",
+			"search",
+			"value",
+			">",
+			"gender",
+			"Masculino",
+			"text",
+			"<input",
+			"</label>",
+			"user",
+			"shoots",
+			"game.player.sh",
+			"shots",
+			"class=\"",
+			"</span",
+			"axisX",
+			"axisX=\"0",
+			"><butto",
+			"utton",
+			"{",
+			"d=\"",
+			"id=\"",
+			"=\"2",
+			"d=\"",
+			"\"1-",
+			"id=\"",
+			"class=\"cell\"",
+			"class=\"cell\">",
+			".mp3",
+			"mp3",
+			"<div",
+			"position: absolute;",
+			"slider",
+			".pl",
+			"volume",
+			"track",
+			"<div",
+			"div",
+			"title",
+			"-audio",
+			"first-audio",
+			"muteAudio",
+			"lastAudio",
+			"goToLastAudio",
+			"goToFisrtAudio",
+			"initAudio",
+			"playAudio",
+			"stopAudio",
+			"pauseAudio",
+			"x",
+			"video",
+			"audiourl",
+			"<button",
+			"preventDefault",
+			"isPaused",
+			"-play\" onclick=\"jumpTo",
+			"restartAudio",
+			"\"btn-restart\" onc",
+			"jumpTo",
+			"onclick=\"jumpTo(202)\"",
+			"onclick=\"jumpTo(",
+			"<button class=\"btn-stop\"></button>",
+			"<button class=\"btn-play\"></button>",
+			"<p id=",
+			"-->",
+			"00:11",
+			"-->",
+			"../dist/components",
+			"src=\"../dist/components",
+			"href=\"",
+			"button",
+			"item",
+			"item\"",
+			";",
+			"ypeof",
+			"typeof",
+			"img src",
+			"<figur",
+			"figure",
+			"<li>",
+			"h2",
+			"3",
+			"h",
+			"”",
+			"“"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 140.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MEAN_1.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

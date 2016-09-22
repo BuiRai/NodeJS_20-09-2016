@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["node_modules"],
+			"file_exclude_patterns": [".gitignore", "MEAN_1.sublime-project", "MEAN_1.sublime-workspace"]
+		}
+	],
+	"build_systems":
+    [
+        {
+            "name": "node_server",
+            "shell_cmd": "nodemon index.js"
+        }
+    ],
+	"settings":
+		{
+				"tab_size": 2
+		}
+}
