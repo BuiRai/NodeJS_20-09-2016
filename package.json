@@ -2,7 +2,7 @@
   "name": "express-helloworld",
   "version": "1.0.0",
   "description": "example",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,11 @@
   "author": "BuiRai",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6",
+    "morgan": "^1.7.0"
   }
 }
