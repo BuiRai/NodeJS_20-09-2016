@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"m",
+				"MEAN_1.sublime-workspace"
+			],
+			[
 				"com",
 				"combinations(set)"
 			],
@@ -247,6 +251,7 @@
 		"height": 126.0,
 		"history":
 		[
+			"node_server",
 			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
@@ -259,17 +264,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello"
-	],
 	"file_history":
 	[
-		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/config/express.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/MEAN_1.sublime-project",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/angular-phonecat/package.json",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/angular-phonecat/bower.json",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/config/config.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/config/env/development.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/package.json",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/app/controllers/index.server.controller.js",
 		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/server.js",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/app/views/index.ejs",
+		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/config/express.js",
 		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/app/routes/index.server.routes.js",
 		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/index.js",
-		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/package.json",
 		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/.gitignore",
 		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/hello2.js",
 		"/C/Users/buira/Dropbox/UADY/9o Semestre/1 - NodeJS/Tareas/expressHello/npm-debug.log",
@@ -556,7 +564,7 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "",
+	"pinned_build_system": "node_server",
 	"project": "MEAN_1.sublime-project",
 	"replace":
 	{
@@ -598,7 +606,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 243.0,
+	"side_bar_width": 187.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
