@@ -1,1 +1,4 @@
 /node_modules
+/public/lib
+
+/config/strategies/facebook.js
